@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SharePoint",
+    "isToggledOn": null,
+    "isLoading": false,
+    "disabledTools": [],
+    "mcpType": "internal"
+  },
+  {
+    "name": "Google Drive",
+    "isToggledOn": null,
+    "isLoading": false,
+    "disabledTools": [],
+    "mcpType": "internal"
+  }
+]
