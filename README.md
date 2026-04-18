@@ -1,7 +1,7 @@
 # 🌉 Vidya Setu — AI-Powered Adaptive Learning Platform
 
 <div align="center">
-**Adaptive quiz engine · 10 Indian languages · RAG-powered tutoring · Accessibility-first**
+Adaptive quiz engine · 10 Indian languages · RAG-powered tutoring · Accessibility-first
 
 [🚀 Quick Start](#-setup--run) · [🎮 Demo](#-demo-walkthrough) · [✨ Features](#-features) · [🏗️ Architecture](#-architecture)
 
@@ -11,7 +11,7 @@
 
 ## 📖 What is Vidya Setu?
 
-**Vidya Setu** (meaning *Bridge of Knowledge* in Sanskrit) is an intelligent, inclusive learning platform that bridges the gap between students and quality education — regardless of language, learning style, or ability.
+**Vidya Setu** (Bridge of Knowledge) is an AI-powered learning platform that bridges gaps in education—empowering disabled and underserved learners with adaptive quizzes and a RAG-based tutor that understands their study material and responds in their language and learning style.
 
 It combines a **ML-powered adaptive quiz engine** with a **RAG-based personal tutor** that reads your study material and answers questions in your language, adapted to your accessibility needs.
 
