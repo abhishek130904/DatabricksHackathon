@@ -265,8 +265,22 @@ requests
       IIT Indore<br>
       <a href="https://github.com/abhishek130904">@abhishek130904</a>
     </td>
+    <td align="center">
+      <b>Purvi Jain</b><br>
+      IIT Indore
+    </td>
+    <td align="center">
+      <b>Adarsh Rai</b><br>
+      IIT Indore
+    </td>
+    <td align="center">
+      <b>Lakshya Rishi</b><br>
+      IIT Indore
+    </td>
   </tr>
 </table>
+
+---
 
 ---
 
